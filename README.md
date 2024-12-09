@@ -17,7 +17,7 @@
   ![image](https://github.com/user-attachments/assets/7b499a04-5da6-4e3e-af12-ff5f5ee00a68)
 
 
-<font size="4">Этот текст будет больше</font>
+<font size="10">Этот текст будет больше</font>
 <font size="2">Этот текст будет меньше</font>
 
 
