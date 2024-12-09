@@ -1,4 +1,4 @@
-1. ***Activity Tracking***
+1. **Activity Tracking**
   ![Снимок экрана 2024-12-08 233610](https://github.com/user-attachments/assets/00089a62-a5e2-4d59-ae57-3387511f9784)
 
 2. **Goals & Progress**
@@ -15,5 +15,17 @@
 
 6. **Payment & Subscription**
   ![image](https://github.com/user-attachments/assets/7b499a04-5da6-4e3e-af12-ff5f5ee00a68)
+
+
+<font size="4">Этот текст будет больше</font>
+<font size="2">Этот текст будет меньше</font>
+
+
+
+| Заголовок 1 | Заголовок 2 | Заголовок 3 |
+|-------------|-------------|-------------|
+| Ячейка 1    | Ячейка 2    | Ячейка 3    |
+| Ячейка 4    | Ячейка 5    | Ячейка 6    |
+
 
 
