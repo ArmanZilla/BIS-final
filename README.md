@@ -17,9 +17,4 @@
   ![image](https://github.com/user-attachments/assets/7b499a04-5da6-4e3e-af12-ff5f5ee00a68)
 
 
-<p style="font-size:20px;">Этот текст размером 20px</p>
-<p style="font-size:12px;">Этот текст размером 12px</p>
-
-
-
 
